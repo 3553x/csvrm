@@ -1,2 +1,2 @@
 # csvrm
-csv tool to remove column
+csv tool to remove columns
