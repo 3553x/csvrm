@@ -1,2 +1,2 @@
-# csvrm
-csv tool to remove columns
+# CSVRM
+Simple tool to remove columns from a CSV file.
